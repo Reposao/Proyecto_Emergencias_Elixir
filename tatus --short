@@ -1,0 +1,51 @@
+f90cceb Documentar comandos, filtros y ejemplos de uso
+
+COMANDOS.md
+78ea2a4 Agregar lanzador de clientes distribuidos
+
+cliente.bat
+f98402b Agregar lanzador del servidor distribuido
+
+servidor.bat
+39b255a Agregar lanzador de la demostración para Windows
+
+demostracion.bat
+be028c9 Agregar cliente de comprobación entre nodos
+
+scripts/cliente_prueba.exs
+26a2a1f Agregar servidor aislado para comprobar nodos
+
+scripts/servidor_prueba.exs
+a2f4b38 Agregar demostración de funcionalidades y concurrencia
+
+scripts/demo.exs
+3566282 Agregar consola local y cliente distribuido
+
+lib/emergencias/consola.ex
+c6b4ae5 Agregar aplicación y supervisión de procesos
+
+lib/emergencias/aplicacion.ex
+8640100 Agregar servidor central con GenServer y control de sesiones
+
+lib/emergencias/servidor.ex
+e80be79 Agregar procesos de sesión y comunicación con el servidor
+
+lib/emergencias/sesion.ex
+cb58c59 Integrar operaciones y consultas del sistema
+
+lib/emergencias/dominio.ex
+1e56076 Agregar intérprete y validación de comandos
+
+lib/emergencias/comandos.ex
+7a400bb Agregar entrada de datos y salida de resultados
+
+lib/emergencias/util2.ex
+69483bc Agregar presentación organizada de resultados en consola
+
+lib/emergencias/salida.ex
+3bb9907 Agregar reportes y coincidencias de mascotas
+
+lib/emergencias/mascotas.ex
+3617a6f Agregar personas, historial de estados y mensajes familiares
+
+lib/emergencias/personas.ex
